@@ -1,4 +1,4 @@
-Clumsy Bird
+Flappy Bird
 ===========
 
  made "Flappy Bird" clone.
