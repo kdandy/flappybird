@@ -7,8 +7,6 @@ Flappy Bird
 
 Play online at https://testing-dandy.vercel.app/
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/kdandy/flappybird/tree/gh-pages)
-
 ## Running Locally
 
 - Install [Node](http://nodejs.org/download/) and [Grunt](http://gruntjs.com/)
