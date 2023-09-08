@@ -1,9 +1,9 @@
 /* TEAM */
 
 Developer: Dandy
-Site: https://ellisonleao.github.io, https://github.com/ellisonleao
-Twitter: @ellisonleao
-Location: Indoensian
+Site: https://flappybird-kdandy.vercel.app, https://github.com/flappybird
+Twitter: @kdandy
+Location: Indonesian
 
 /* SITE */
 
