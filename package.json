@@ -1,24 +1,24 @@
 {
-  "name": "clumsy-bird",
+  "name": "kdandy-bird",
   "version": "0.1.0",
-  "description": "Clumsy Bird - A MelonJS port of the famous Flappy Bird game",
-  "homepage": "http://ellisonleao.github.io/clumsy-bird/",
+  "description": "Flappy Bird - A dandy port of the famous Flappy Bird game",
+  "homepage": "http://kdandy.github.io/flappybird/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ellisonleao/clumsy-bird"
+    "url": "https://github.com/kdandy/flappybird"
   },
   "bugs": {
-    "url": "https://github.com/ellisonleao/clumsy-bird/issues"
+    "url": "https://github.com/kdandy/flappybird/issues"
   },
   "licenses": [
     {
       "type": "MIT License",
-      "url": "https://github.com/ellisonleao/clumsy-bird/blob/master/LICENSE"
+      "url": "https://github.com/kdandy/flappybird/blob/master/LICENSE"
     }
   ],
   "author": {
-    "name": "Ellison Leão",
-    "email": "ellisonleao@gmail.com"
+    "name": "Dandy",
+    "email": "dandybdr@gmail.com"
   },
   "engines": {
     "node": ">= 0.8.0"
