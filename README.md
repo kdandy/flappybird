@@ -5,7 +5,7 @@ Clumsy Bird
 
 ![](http://i.imgur.com/Slbvt65.png)
 
-Play online at https://flappybird.vercel.app/
+Play online at https://testing-dandy.vercel.app/
 
 ## Running Locally
 
